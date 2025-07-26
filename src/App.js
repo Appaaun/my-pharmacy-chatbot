@@ -316,7 +316,7 @@ const App = () => {
             </button>
           </div>
           <div className="text-center text-gray-400 text-xs mt-3">
-            จัดทำโดย Pharmacist's APPA
+            จัดทำโดย เภสัชกรเมธี แสนการุณ
           </div>
         </div>
       </div>
